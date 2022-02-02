@@ -1,3 +1,8 @@
+/*
+ANGELDUST COIN by Alexander Abraham.
+Licensed under the MIT license.
+*/
+
 // SPDX-License-Identifier: UNLISCENSED
 pragma solidity 0.8.7;
 contract SampleBEP20Token {
