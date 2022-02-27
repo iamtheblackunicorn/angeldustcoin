@@ -4,7 +4,7 @@
 
 # ANGELDUST COIN :rainbow: :lock:
 
-***A crypto currency based on psychedlics.*** :rainbow: :lock
+***A crypto currency based on psychedlics.*** :rainbow: :lock:
 
 ## About :books:
 
